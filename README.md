@@ -1,5 +1,7 @@
 # Taobao TOP API Node SDK
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/taoyuan/ali-topsdk.svg)](https://greenkeeper.io/)
+
 [淘宝开放平台](http://open.taobao.com/doc2/api_list.htm) API Node SDK
 
 ## Get Started
